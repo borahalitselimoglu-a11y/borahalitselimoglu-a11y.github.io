@@ -4,8 +4,19 @@
     "target": {
       "namespace": "android_app",
       "package_name": "com.bead.chess4k",
-      "sha256_cert_fingerprints":
-        ["70:79:9E:FF:22:3E:ED:5B:8E:1F:09:2E:95:19:55:1F:55:F7:DC:0A:34:83:3D:9E:25:A9:42:75:4A:32:F8:35"]
+      "sha256_cert_fingerprints": [
+        "70:79:9E:FF:22:3E:ED:5B:8E:1F:09:2E:95:19:55:1F:55:F7:DC:0A:34:83:3D:9E:25:A9:42:75:4A:32:F8:35"
+      ]
+    }
+  },
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.bead.kalemdar",
+      "sha256_cert_fingerprints": [
+        "FC:06:BC:D4:DC:47:E0:27:8D:BF:3B:1C:60:5C:9D:17:60:1C:C3:73:8E:7B:B1:23:BF:0E:12:8D:B2:41:0E:EF"
+      ]
     }
   }
 ]
