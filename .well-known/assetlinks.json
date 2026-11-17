@@ -15,7 +15,8 @@
       "namespace": "android_app",
       "package_name": "com.bead.kalemdar",
       "sha256_cert_fingerprints": [
-        "FC:06:BC:D4:DC:47:E0:27:8D:BF:3B:1C:60:5C:9D:17:60:1C:C3:73:8E:7B:B1:23:BF:0E:12:8D:B2:41:0E:EF"
+        "FC:06:BC:D4:DC:47:E0:27:8D:BF:3B:1C:60:5C:9D:17:60:1C:C3:73:8E:7B:B1:23:BF:0E:12:8D:B2:41:0E:EF",
+        "43:02:4E:18:29:E0:C3:9C:CE:40:1F:CA:F7:E4:47:AE:9B:5F:00:00:78:36:49:CD:07:74:0E:92:C5:B7:1C:AC"
       ]
     }
   }
